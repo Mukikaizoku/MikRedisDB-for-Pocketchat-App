@@ -6,3 +6,6 @@ For information about the RedisDBController Class within MikRedisDB, please see 
   
 DLL and SOURCE CODE:  
 To use the MikRedisDB library, please see relevant .dll and .cs files.
+
+POCKETCHAT APPLICATION MAIN PAGE:  
+https://github.com/433-Summer-Internship/Harim-Junhong-Mik  
